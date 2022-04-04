@@ -1,9 +1,10 @@
 #### Getting Started with "react-rating" Create React App
 
+[react rating my demo](https://vermillion-cocada-8ce3b2.netlify.app/)
+
 [react rating demo](http://dreyescat.github.io/react-rating/)
 
 [react rating github](https://github.com/dreyescat/react-rating)
-
 
 ```bash
     npm install --save react-rating
@@ -20,4 +21,3 @@
     ></Rating>
 
 ```
-
