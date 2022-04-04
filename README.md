@@ -1,4 +1,4 @@
-#### Getting Started with Create React App
+#### Getting Started with "react-rating" Create React App
 
 [react rating demo](http://dreyescat.github.io/react-rating/)
 
