@@ -68,5 +68,33 @@
     "rate": 5,
     "desc": "I never dared to buy anything online before, after getting some product orders from Daraj, now it feels good, thanks to Daraj for delivering the right product at the right time.",
     "img": "https://raw.githubusercontent.com/kibria-khandaker/api_for_watch_review/master/img/img10.jpg"
+  },
+  {
+    "id": "Service55s455",
+    "name": "KG Kibria",
+    "rate": 5,
+    "desc": "i love this Service. The service is smooth and straightforward. My advisor was helpful. I would recommend deal direct, its perfect.",
+    "img": "https://raw.githubusercontent.com/kibria-khandaker/api_for_watch_review/master/img/img7.jpg"
+  },
+  {
+    "id": "Service66kk66",
+    "name": "Captain Vulad",
+    "rate": 4,
+    "desc": "Great service, efficient communication and a really easy way to get a mortgage with lots of help and support to get the right deal, ",
+    "img": "https://raw.githubusercontent.com/kibria-khandaker/api_for_watch_review/master/img/img8.jpg"
+  },
+  {
+    "id": "Service88pz88",
+    "name": "Captain Matte",
+    "rate": 3,
+    "desc": " Great man was service provider! The man I spoke with was very helpful in answering questions as well as helping in finding the best hotel for my husband and I",
+    "img": "https://raw.githubusercontent.com/kibria-khandaker/api_for_watch_review/master/img/img9.jpg"
+  },
+  {
+    "id": "Service99ev99",
+    "name": "Rohan Scout",
+    "rate": 5,
+    "desc": "I never dared to buy anything online before, after getting service from his, now it feels good, thanks to you for providing the right service at the right time.",
+    "img": "https://raw.githubusercontent.com/kibria-khandaker/api_for_watch_review/master/img/img10.jpg"
   }
 ]
